@@ -1,2 +1,8 @@
 # Effect-of-Airline-Loyalty-Programs-on-Small-Medium-Hub-Airports
-Analyzed how airline credit card loyalty programs and award travel relate to airport revenue using enplanement and PFC data (2010–2024). Cleaned data in Excel, calculated non-revenue passenger impact, and forecasted future revenue trends.
+This project analyzes the relationship between airline credit card loyalty programs, award travel, and airport revenue using historical enplanement and Passenger Facility Charge (PFC) data from 2010–2024. The goal was to understand how growth in non-revenue and award-ticket passengers may impact airport revenue, even as total passenger volumes increase.
+
+Data was cleaned and prepared in Excel, where inconsistent values were standardized, non-revenue passenger ratios were calculated, and missing or irregular entries were handled to ensure accuracy. Key metrics such as total enplanements, non-revenue passenger percentages, and estimated revenue loss were derived using formulas and ratio-based calculations. PFC revenue loss was estimated by applying non-revenue passenger ratios to yearly PFC totals.
+
+The analysis focused on identifying long-term trends rather than short-term fluctuations. While total passenger volumes increased significantly over the study period, the proportion of non-revenue passengers remained relatively stable and slightly declined. Forecasting tools in Excel were used to project potential future impacts, accounting for anomalies such as the COVID-19 travel disruption.
+
+This project highlights the growing disconnect that can occur between passenger growth and revenue growth at airports, particularly as loyalty programs and award travel become more common. The findings provide insight into how airports may face financial pressure despite increasing demand and underscore the importance of understanding revenue composition for long-term infrastructure planning and policy decisions.
